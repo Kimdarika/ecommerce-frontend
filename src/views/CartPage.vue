@@ -225,12 +225,12 @@ onMounted(() => {
 .cart-page {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   padding: 2rem 0 4rem;
-  background: #fdf8fa;
+  background: linear-gradient(160deg, #fff5f7 0%, #fce4ec 20%, #f3e8ff 50%, #eef2ff 80%, #f0f0ff 100%);
   min-height: 100vh;
 }
 
 .container {
-  max-width: 1325px;
+  max-width: 1200px;
 }
 
 /* ============================================

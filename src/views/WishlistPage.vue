@@ -154,7 +154,7 @@ onMounted(() => {
    ============================================ */
 .wishlist-page {
   padding: 40px 0 60px;
-  background: #ffffff;
+  background: #fef8f9 0%;
   min-height: 100vh;
 }
 
@@ -177,7 +177,7 @@ onMounted(() => {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fd79a8;
-  background: rgba(253, 121, 168, 0.1);
+  background: linear-gradient(160deg, #fff5f7 0%, #fce4ec 20%, #f3e8ff 50%, #eef2ff 80%, #f0f0ff 100%);
   padding: 0.3rem 1rem;
   border-radius: 50px;
   margin-bottom: 0.5rem;
